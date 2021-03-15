@@ -1,0 +1,670 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8620de46-690f-4667-b377-f92a8ce07e2c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bzm-admin/.browserslistrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bzm-admin/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bzm-admin/babel.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bzm-admin/jsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bzm-admin/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bzm-admin/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bzm-admin/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bzm-admin/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bzm-admin/src/App.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bzm-admin/src/assets/css/global.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bzm-admin/src/assets/font/demo.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bzm-admin/src/assets/font/demo_index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bzm-admin/src/assets/font/iconfont.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bzm-admin/src/assets/font/iconfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bzm-admin/src/assets/font/iconfont.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bzm-admin/src/assets/font/iconfont.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bzm-admin/src/assets/font/iconfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bzm-admin/src/assets/font/iconfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bzm-admin/src/assets/font/iconfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bzm-admin/src/assets/font/iconfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bzm-admin/src/assets/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bzm-admin/src/components/Test.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bzm-admin/src/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bzm-admin/src/plugins/element.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bzm-admin/src/router/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bzm-admin/src/views/Home.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bzm-admin/src/views/Login/Login.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bzm-admin/src/views/Login/Register.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bzm-admin/src/views/admin/User.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/users/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/users/src/main/java/ink/bzm/users/UsersApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/users/src/main/java/ink/bzm/users/controller/LoginController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/users/src/main/java/ink/bzm/users/controller/MenuController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/users/src/main/java/ink/bzm/users/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/users/src/main/java/ink/bzm/users/dao/MenuDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/users/src/main/java/ink/bzm/users/dao/UserDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/users/src/main/java/ink/bzm/users/pojo/MainMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/users/src/main/java/ink/bzm/users/pojo/QueryInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/users/src/main/java/ink/bzm/users/pojo/SubMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/users/src/main/java/ink/bzm/users/pojo/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/users/src/main/java/ink/bzm/users/service/MenuService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/users/src/main/java/ink/bzm/users/service/MenuServicelmpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/users/src/main/java/ink/bzm/users/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/users/src/main/java/ink/bzm/users/service/UserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/users/src/main/java/ink/bzm/users/util/WebConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/users/src/main/java/ink/bzm/users/vo/Result.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/users/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/users/src/main/resources/mapper/MenuDAOMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/users/src/main/resources/mapper/UserDAOMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/users/src/main/resources/sql/t_users.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/users/src/test/java/ink/bzm/users/UsersApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/users/target/classes/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/users/target/classes/ink/bzm/users/UsersApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/users/target/classes/ink/bzm/users/controller/LoginController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/users/target/classes/ink/bzm/users/controller/MenuController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/users/target/classes/ink/bzm/users/controller/UserController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/users/target/classes/ink/bzm/users/dao/MenuDAO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/users/target/classes/ink/bzm/users/dao/UserDAO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/users/target/classes/ink/bzm/users/pojo/MainMenu.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/users/target/classes/ink/bzm/users/pojo/QueryInfo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/users/target/classes/ink/bzm/users/pojo/SubMenu.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/users/target/classes/ink/bzm/users/pojo/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/users/target/classes/ink/bzm/users/service/MenuService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/users/target/classes/ink/bzm/users/service/MenuServicelmpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/users/target/classes/ink/bzm/users/service/UserService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/users/target/classes/ink/bzm/users/service/UserServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/users/target/classes/ink/bzm/users/util/WebConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/users/target/classes/ink/bzm/users/vo/Result.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/users/target/classes/mapper/MenuDAOMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/users/target/classes/mapper/UserDAOMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/users/target/classes/sql/t_users.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/users/target/test-classes/ink/bzm/users/UsersApplicationTests.class" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/users/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor />
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/users/src/main/java/ink/bzm/users/UsersApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="342">
+              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#315#316#0" expanded="true" />
+                <element signature="e#373#374#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Test/src/TyporaClean.java" />
+        <option value="$PROJECT_DIR$/users/.gitignore" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+      </list>
+    </option>
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\java_tools\maven\repository" />
+        <option name="mavenHome" value="D:/java_tools/maven/apache-maven-3.5.2" />
+        <option name="userSettingsFile" value="D:\java_tools\maven\apache-maven-3.5.2\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="575" />
+    <option name="y" value="60" />
+    <option name="width" value="1350" />
+    <option name="height" value="690" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="CatdeaLogs" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Bzm-Home" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Bzm-Home" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Bzm-Home" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Bzm-Home" type="462c0819:PsiDirectoryNode" />
+              <item name="bzm-admin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Bzm-Home" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Bzm-Home" type="462c0819:PsiDirectoryNode" />
+              <item name="bzm-admin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Bzm-Home" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Bzm-Home" type="462c0819:PsiDirectoryNode" />
+              <item name="bzm-admin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Bzm-Home" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Bzm-Home" type="462c0819:PsiDirectoryNode" />
+              <item name="bzm-admin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="plugins" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Bzm-Home" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Bzm-Home" type="462c0819:PsiDirectoryNode" />
+              <item name="bzm-admin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="router" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Bzm-Home" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Bzm-Home" type="462c0819:PsiDirectoryNode" />
+              <item name="bzm-admin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Bzm-Home" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Bzm-Home" type="462c0819:PsiDirectoryNode" />
+              <item name="bzm-admin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="admin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Bzm-Home" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Bzm-Home" type="462c0819:PsiDirectoryNode" />
+              <item name="bzm-admin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="Login" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Bzm-Home" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Bzm-Home" type="462c0819:PsiDirectoryNode" />
+              <item name="users" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Bzm-Home" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Bzm-Home" type="462c0819:PsiDirectoryNode" />
+              <item name="users" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Bzm-Home" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Bzm-Home" type="462c0819:PsiDirectoryNode" />
+              <item name="users" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Bzm-Home" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Bzm-Home" type="462c0819:PsiDirectoryNode" />
+              <item name="users" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Bzm-Home" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Bzm-Home" type="462c0819:PsiDirectoryNode" />
+              <item name="users" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ink" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Bzm-Home" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Bzm-Home" type="462c0819:PsiDirectoryNode" />
+              <item name="users" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ink" type="462c0819:PsiDirectoryNode" />
+              <item name="bzm" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Bzm-Home" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Bzm-Home" type="462c0819:PsiDirectoryNode" />
+              <item name="users" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ink" type="462c0819:PsiDirectoryNode" />
+              <item name="bzm" type="462c0819:PsiDirectoryNode" />
+              <item name="users" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Bzm-Home" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Bzm-Home" type="462c0819:PsiDirectoryNode" />
+              <item name="users" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ink" type="462c0819:PsiDirectoryNode" />
+              <item name="bzm" type="462c0819:PsiDirectoryNode" />
+              <item name="users" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Bzm-Home" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Bzm-Home" type="462c0819:PsiDirectoryNode" />
+              <item name="users" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ink" type="462c0819:PsiDirectoryNode" />
+              <item name="bzm" type="462c0819:PsiDirectoryNode" />
+              <item name="users" type="462c0819:PsiDirectoryNode" />
+              <item name="dao" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Bzm-Home" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Bzm-Home" type="462c0819:PsiDirectoryNode" />
+              <item name="users" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ink" type="462c0819:PsiDirectoryNode" />
+              <item name="bzm" type="462c0819:PsiDirectoryNode" />
+              <item name="users" type="462c0819:PsiDirectoryNode" />
+              <item name="pojo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Bzm-Home" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Bzm-Home" type="462c0819:PsiDirectoryNode" />
+              <item name="users" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ink" type="462c0819:PsiDirectoryNode" />
+              <item name="bzm" type="462c0819:PsiDirectoryNode" />
+              <item name="users" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Bzm-Home" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Bzm-Home" type="462c0819:PsiDirectoryNode" />
+              <item name="users" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ink" type="462c0819:PsiDirectoryNode" />
+              <item name="bzm" type="462c0819:PsiDirectoryNode" />
+              <item name="users" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Bzm-Home" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Bzm-Home" type="462c0819:PsiDirectoryNode" />
+              <item name="users" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ink" type="462c0819:PsiDirectoryNode" />
+              <item name="bzm" type="462c0819:PsiDirectoryNode" />
+              <item name="users" type="462c0819:PsiDirectoryNode" />
+              <item name="vo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Bzm-Home" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Bzm-Home" type="462c0819:PsiDirectoryNode" />
+              <item name="users" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Bzm-Home" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Bzm-Home" type="462c0819:PsiDirectoryNode" />
+              <item name="users" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="mapper" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Bzm-Home" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Bzm-Home" type="462c0819:PsiDirectoryNode" />
+              <item name="users" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="sql" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Bzm-Home" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Bzm-Home" type="462c0819:PsiDirectoryNode" />
+              <item name="users" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Bzm-Home" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Bzm-Home" type="462c0819:PsiDirectoryNode" />
+              <item name="users" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Bzm-Home" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Bzm-Home" type="462c0819:PsiDirectoryNode" />
+              <item name="users" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ink" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Bzm-Home" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Bzm-Home" type="462c0819:PsiDirectoryNode" />
+              <item name="users" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ink" type="462c0819:PsiDirectoryNode" />
+              <item name="bzm" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Bzm-Home" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Bzm-Home" type="462c0819:PsiDirectoryNode" />
+              <item name="users" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ink" type="462c0819:PsiDirectoryNode" />
+              <item name="bzm" type="462c0819:PsiDirectoryNode" />
+              <item name="users" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="add_unversioned_files" value="true&#10;C:/Users/buzhengmiao/Desktop/仓库/GitHub/Bzm-Home/.gitignore" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="UsersApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="users" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="ink.bzm.users.UsersApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8620de46-690f-4667-b377-f92a8ce07e2c" name="Default Changelist" comment="" />
+      <created>1615789302071</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1615789302071</updated>
+      <workItem from="1615789303379" duration="59000" />
+      <workItem from="1615789411486" duration="109000" />
+      <workItem from="1615789522746" duration="1836000" />
+      <workItem from="1615791477805" duration="927000" />
+      <workItem from="1615792408993" duration="4000" />
+      <workItem from="1615792457351" duration="468000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="3403000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22252011" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="0" weight="0.3298969" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Tail" order="2" />
+      <window_info anchor="bottom" id="Find" order="3" />
+      <window_info anchor="bottom" id="Run" order="4" weight="0.3298969" />
+      <window_info anchor="bottom" id="Debug" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="6" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="8" />
+      <window_info anchor="bottom" id="Spring" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.3298969" />
+      <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" weight="0.3298969" />
+      <window_info anchor="bottom" id="Statistic" order="13" />
+      <window_info anchor="bottom" id="Java Enterprise" order="14" />
+      <window_info anchor="bottom" id="Database Changes" order="15" />
+      <window_info anchor="bottom" id="Version Control" order="16" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Word Book" order="6" side_tool="true" />
+      <window_info anchor="right" id="Key Promoter X" order="7" />
+      <window_info anchor="right" id="Database" order="8" />
+      <window_info anchor="right" id="Palette&#9;" order="9" />
+      <window_info anchor="right" id="Theme Preview" order="10" />
+      <window_info anchor="right" id="RestServices" order="11" />
+      <window_info anchor="right" id="Bean Validation" order="12" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26340482" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="0" weight="0.3298969" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Tail" order="2" />
+      <window_info anchor="bottom" id="Find" order="3" />
+      <window_info anchor="bottom" id="Run" order="4" weight="0.3298969" />
+      <window_info anchor="bottom" id="Debug" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="6" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="8" />
+      <window_info anchor="bottom" id="Spring" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.3298969" />
+      <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" weight="0.3298969" />
+      <window_info anchor="bottom" id="Statistic" order="13" />
+      <window_info anchor="bottom" id="Java Enterprise" order="14" />
+      <window_info anchor="bottom" id="Database Changes" order="15" />
+      <window_info anchor="bottom" id="Version Control" order="16" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Word Book" order="6" side_tool="true" />
+      <window_info anchor="right" id="Key Promoter X" order="7" />
+      <window_info anchor="right" id="Database" order="8" />
+      <window_info anchor="right" id="Palette&#9;" order="9" />
+      <window_info anchor="right" id="Theme Preview" order="10" />
+      <window_info anchor="right" id="RestServices" order="11" />
+      <window_info anchor="right" id="Bean Validation" order="12" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Test/src/Test.java" />
+    <entry file="file://$PROJECT_DIR$/Test/src/TyporaClean.java" />
+    <entry file="file://$PROJECT_DIR$/users/.gitignore" />
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="5" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/users/src/main/java/ink/bzm/users/UsersApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#315#316#0" expanded="true" />
+            <element signature="e#373#374#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

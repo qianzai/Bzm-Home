@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+<mapper namespace="ink.bzm.users.dao.UserDAO">
+    <!--创建用户-->
+    <insert id="saveUser" parameterType="ink.bzm.users.pojo.User">
+          INSERT INTO t_users (username, password, email, role,state,regdate)
+        VALUES (#{username},#{password},#{email},#{role},#{state},#{regdate});
+    </insert>
+
+    <!--更新状态-->
+    <update id="updateState">
+                UPDATE t_users SET state = #{state} WHERE id = #{id}
+    </update>
+
+    <!--删除用户-->
+    <delete id="deleteUser">
+        DELETE FROM t_users WHERE id = #{id}
+    </delete>
+
+    <!--查询所有-->
+    <select id="findAllUser" resultType="ink.bzm.users.pojo.User">
+        select * from t_users
+        <if test="username !=null ">
+            WHERE username like #{username}
+        </if>
+        LIMIT #{pageStart},#{pageSize}
+    </select>
+
+    <!--查询用户个数-->
+    <select id="getUserCounts" resultType="java.lang.Integer">
+        SELECT count(*) FROM t_users
+        <if test="username !=null ">
+            WHERE username like #{username}
+        </if>
+    </select>
+
+    <!--登陆查询-->
+    <select id="loginMessage" resultType="ink.bzm.users.pojo.User">
+        SELECT * FROM t_users WHERE username=#{username} AND password=#{password} AND state=1
+    </select>
+
+
+</mapper>
